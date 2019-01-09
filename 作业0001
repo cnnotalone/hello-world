@@ -1,6 +1,5 @@
 # -*- coding:UTF-8 -*-
 #! /usr/bin/python
- 
 import random
 import sys
  
